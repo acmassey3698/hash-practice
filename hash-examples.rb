@@ -4,3 +4,9 @@ car = {
   "make" => "Subaru",
   "model" => "Outback"
 }
+
+animal = {
+  "species name" => "polymastia boletiformus",
+  "legs" => 0,
+  "brain" => false
+}
