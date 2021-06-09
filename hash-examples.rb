@@ -10,3 +10,8 @@ animal = {
   "legs" => 0,
   "brain" => false
 }
+
+customer = {
+  "name" => "Andrew",
+  "dollars_spent" => 36.65
+}
